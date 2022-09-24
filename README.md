@@ -6,3 +6,10 @@
 - 🌱 I’m currently learning Swift Programming.
 - 💬 Ask me about iOS development.
 - 🏠 I live in Ankara/Turkey.
+
+Connect with me:
+
+[![Mail](https://img.icons8.com/fluency/48/000000/apple-mail.png "@rabia.1860@gmail.com")](mailto:rabia.1860@gmail.com)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png "@yavuzz_rabia")](https://www.instagram.com/yavuzz_rabia/)
+[![Linkedin](https://img.icons8.com/fluency/48/000000/linkedin.png "@yavuzz_rabia")](https://www.linkedin.com/in/yavuzzrabia1860)
+
